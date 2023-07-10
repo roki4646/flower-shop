@@ -224,6 +224,9 @@ body {
 
 /* instagram section end Here */
 
+/* subcribe section end Here   */
+
+
 .subcribe-container{
     width: 1440px;
     height: 449px;
@@ -275,3 +278,48 @@ body {
     margin-top: 28px;
     margin-left: 8px;
 }
+  /* subcribe section end Here   */
+
+
+
+  /* Footer section start Here   */
+  .footer-container{
+    height: 42vh;
+    background-color: #111010;
+  }
+
+  .footer-info{
+    width: 1440px;
+    text-align: center;
+    margin: auto;
+  }
+  .footer-title{
+    color: #E55473;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 95px;
+  }
+  .footer-title > span {
+    color: white;
+  }
+  .footer-description{
+    color: #ffffffe6;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 30px 0px;
+  }
+  .footer-reserved{
+    color: #ffffff66;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+    /* Footer section end Here   */
