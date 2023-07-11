@@ -257,6 +257,10 @@ body {
     margin-bottom: 20px;
     display: flex;
     justify-content: space-between;
+
+}
+.instagram-images img{
+    box-shadow: .2px .2px 6px .2px;
 }
 
 /* instagram section end Here */
